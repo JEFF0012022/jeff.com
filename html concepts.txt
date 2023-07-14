@@ -1,0 +1,40 @@
+html concepts
+
+1. tags	- Everthing in html is contained within tags.
+	<tagname>..........</tagname>
+	Each tag has a meaning
+<p>	Loremfghjkslkj </p>
+<h1> this is my class </h1>
+Ensure you always close a tag when you open.
+
+<img>.. </img>
+<br>...</br>
+<hr>...</hr>
+<input>  ..</input>
+
+2. attribute - adds more features on tag is usually written in the opening tag.
+		<img width="500px" height="800px">
+		<a href="http://techcamp.co.ke">Click here</a>
+
+3. Elements - Everything contained inside a tag. content and even tags
+
+HTML SECTIONS
+Everything in html is contained in the <html>.... </html>
+html has two important sections
+SECTION 1: <HEAD> ... </HEAD>. this contains stuff needed by the browser not for users like title,CSS
+
+SECTION 2: <body>...</body>  This is where you put what you want the user to see. Paragrapgs, headings, Tables, lists, forms.
+
+<DOCTYPE html - tells browsers you are implementing HTML5
+HTML5 improvementS like form validations, media uploads
+<table>
+<tr>
+<td>name</td>
+<td>Age</td>
+<td>Email</td>
+</tr>
+<td>Ismael</td>
+<td>20</td>
+<td>ismael@gmail</td>
+
+

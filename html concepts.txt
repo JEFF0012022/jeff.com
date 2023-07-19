@@ -38,3 +38,48 @@ HTML5 improvementS like form validations, media uploads
 <td>ismael@gmail</td>
 
 
+one time steps
+Create a github repository
+open gitbash in project folder
+git init
+git add .
+git commit -m "work done"
+git push origin master
+
+
+WEB DEVELOPMENT
+FRONTEND BACK END
+frontend - thml,css, javascript
+css- cascading styling sheet
+1. syntax - this are the rules of that languange
+2. how do we style the html
+how do we reference html in css
+
+1. class- we can call/reference a class in css starting with a.
+2. id - we can call/reference it starting with a #
+3. tags - a tag is just called by its name
+
+syntax of css
+1. every statement ends with a semi colon (;)
+2. it is a property : value method call
+	e.g background -color:red;
+3. it is written in braces {}
+	eg items{
+		color:blue;
+			}
+common css properties
+background - color
+backgroung - image
+font size
+margin
+padding
+align items
+justify - content
+font- style
+
+when opening a new file ... shortcuts just type ! then tab key.. it populates the opening code lines
+
+space outside using css is called a margin
+
+css is the last part of coding
+to call for a class using css you start with dot(.then the class name)

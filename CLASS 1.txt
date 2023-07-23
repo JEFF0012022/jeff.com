@@ -1,0 +1,23 @@
+HTTPS://WWW.W3SCHOOLS.COM/
+	- Click on learn HTML
+	- Click on learn CSS
+
+concepts in general css
+1
+least priority	- External	- <Link> in the <Head>
+Next Priority	- Internal	-<style> tag {property:value;property:value;property:value;}
+				</stayle>
+Highest Priority - Inline -<tagname style="property:value;property:value;">...</tagname>
+
+2.
+Referencing . class value then add CSS. for exact referencing always do. parentclass .subparentclass. childclass/tag{property:value;property:value;}
+
+3.
+Understand how to put your project in divisions using <div>
+
+concept in css layout positioning
+beginner
+layout positioning  - padding, margins,width, height,float
+
+
+concept 
